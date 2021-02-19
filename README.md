@@ -1,5 +1,5 @@
 <p align="center">
-   - 🎓💻 <b>Student at: SoftwareUniversity<br>&&<br>Plovdiv University.
+   - 🎓💻 <b>Student at: SoftwareUniversity && Plovdiv University.
    <br>
    <img width="200" height="150" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
    <img width="200" height="150" src="https://media.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif">
