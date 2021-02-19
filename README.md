@@ -11,7 +11,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivanUzunov&layout=compact" />
 </div>
 
-
 | :octocat: Connect via: | :scroll: Certificates: | |
 | :-: | :-: | :-: |
 | :e-mail: **E-mail:**<br/>**stivan.uzunov@gmail.com**| :heavy_check_mark: [**C# Basics 2020**](https://softuni.bg/certificates/details/78297/798571c3)| :heavy_check_mark: [**MS SQL Server 2021**](https://softuni.bg/certificates/details/97805/3e5bda4c) |
